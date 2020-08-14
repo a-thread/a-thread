@@ -1,4 +1,4 @@
-#### Welcome to my Github Page! 👋
+#### Hi there! 👋
 I'm **Aiden Threadgoode**, a full stack developer, with a background in social justice, peer support, and communications!
 - 😄 *Pronouns: he/him*
 
