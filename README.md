@@ -1,7 +1,6 @@
 #### Welcome to my Github Page! 👋
 I'm **Aiden Threadgoode**, a full stack developer, with a background in social justice, peer support, and communications!
 - 😄 *Pronouns: he/him*
-- 🌱 I’m currently learning how to prioritize accessability while coding!
 
 - 📫 **How to reach me:**
    - 👔 [**LinkedIn**](https://www.linkedin.com/in/aiden-threadgoode)
