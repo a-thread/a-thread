@@ -5,5 +5,5 @@ I'm **Aiden Threadgoode**, a full stack developer with a background in social ju
 
 #### 📫 **How to reach me:**
 - [**LinkedIn**](https://www.linkedin.com/in/aiden-threadgoode)
-- [**Portfolio**](https://a-thread.io/)
+- [**Portfolio**](https://a-thread.github.io/Portfolio/)
 - [**Email**](mailto:aiden.threadgoode@gmail.com)
