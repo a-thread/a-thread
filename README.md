@@ -9,7 +9,7 @@ I'm **Aiden Threadgoode**, a full stack developer with a background in social ju
 - [**Email**](mailto:aiden.threadgoode@gmail.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-thread&show_icons=true&theme=vue&hide=stars,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-thread&show_icons=true&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-thread&layout=compact" />
