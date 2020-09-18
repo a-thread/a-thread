@@ -1,4 +1,4 @@
-### Hi there! 👋 Welcome to my Github.
+### 👋 Welcome to my Github!
 I'm a full stack developer with a background in social justice, peer support, and communications.
 <br/>
 > *Pronouns: he/him*
