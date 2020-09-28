@@ -6,7 +6,7 @@ I'm a full stack developer in-training with a background in social justice, peer
 #### 📫 **How to reach me:**
 - [**LinkedIn**](https://www.linkedin.com/in/aiden-threadgoode)
 - [**Portfolio**](https://a-thread.github.io/Meet-Aiden/)
-- [**Email**](mailto:aiden.threadgoode@gmail.com)
+- **Email:** [aiden.threadgoode@gmail.com](mailto:aiden.threadgoode@gmail.com)
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-thread&layout=compact" />
