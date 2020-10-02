@@ -1,5 +1,5 @@
-### 👋 Welcome to my Github!
-I'm a full stack developer in-training with a background in social justice, peer support, and communications.
+### 👋 Welcome!
+Feel free to look around. I'm a full stack developer in-training with a background in social justice, peer support, and communications.
 <br/>
 > *Pronouns: he/him*
 
