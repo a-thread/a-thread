@@ -9,9 +9,9 @@ Feel free to look around. I'm a full stack developer in-training with a backgrou
 - **Email:** [aiden.threadgoode@gmail.com](mailto:aiden.threadgoode@gmail.com)
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align-self="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-thread&layout=compact&show_icons=true&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-thread&layout=compact&show_icons=true&theme=vue" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align-self="center" src="https://github-readme-stats.vercel.app/api/?username=a-thread&layout=compact&show_icons=true&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=a-thread&layout=compact&show_icons=true&theme=vue" />
 </a>
