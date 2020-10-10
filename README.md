@@ -4,8 +4,8 @@ I'm a junior developer with a background in social justice, peer support, and co
 > *Pronouns: he/him*
 
 #### 🔗 Let's Connect!
-- [**LinkedIn**](https://www.linkedin.com/in/aiden-threadgoode)
-- [**Portfolio**](https://a-thread.github.io/Meet-Aiden/)
+- [**LinkedIn:** @a-thread](https://www.linkedin.com/in/a-thread)
+- [**Portfolio:** a-thread.codes](https://a-thread.github.io/Meet-Aiden/)
 - [**Email:** aiden.threadgoode@gmail.com](mailto:aiden.threadgoode@gmail.com)
 
 <h4 align="center">
