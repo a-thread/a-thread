@@ -1,12 +1,12 @@
-### 👋 Welcome!
-Feel free to look around. I'm a full stack developer in-training with a background in social justice, peer support, and communications.
+### 👋 Hi there!
+I'm a junior developer with a background in social justice, peer support, and communications. Feel free to look around and [reach out](mailto:aiden.threadgoode@gmail.com) with any questions. 
 <br/>
 > *Pronouns: he/him*
 
-#### 📫 **How to reach me:**
+#### 🔗 Let's Connect!
 - [**LinkedIn**](https://www.linkedin.com/in/aiden-threadgoode)
 - [**Portfolio**](https://a-thread.github.io/Meet-Aiden/)
-- **Email:** [aiden.threadgoode@gmail.com](mailto:aiden.threadgoode@gmail.com)
+- [**Email:** aiden.threadgoode@gmail.com](mailto:aiden.threadgoode@gmail.com)
 
 <h4 align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
