@@ -25,6 +25,6 @@ I'm a junior developer with a background in social justice, peer support, and co
 </h4>
 
 <p align="center" href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=a-thread&layout=compact&show_icons=true&theme=vue" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=a-thread&layout=compact&show_icons=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-thread&layout=compact&show_icons=true&theme=vue" />
 </a
