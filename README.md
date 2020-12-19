@@ -5,7 +5,7 @@ I'm a junior developer with a background in social justice, peer support, and co
 
 #### 🔗 Let's Connect!
 - [**LinkedIn:** @a-thread](https://www.linkedin.com/in/a-thread)
-- [**Portfolio:** a-thread.codes](https://a-thread.github.io/Meet-Aiden/)
+- [**Portfolio:** a-thread.codes](https://a-thread.codes)
 - [**Email:** aiden.threadgoode@gmail.com](mailto:aiden.threadgoode@gmail.com)
 
 <h4 align="center">
