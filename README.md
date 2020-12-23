@@ -1,9 +1,9 @@
-### 👋 Hi there!
-I'm a junior developer with a background in social justice, peer support, and communications. Feel free to look around and [reach out](mailto:aiden.threadgoode@gmail.com) with any questions. 
+### 👋  Hi there!
+I'm a full-stack engineer with a background in graphic design and communications. Feel free to look around and [reach out](mailto:aiden.threadgoode@gmail.com) with any questions. 
 <br/>
 > *Pronouns: he/him*
 
-#### 🔗 Let's Connect!
+#### 🔗  Let's Connect!
 - [**LinkedIn:** @a-thread](https://www.linkedin.com/in/a-thread)
 - [**Portfolio:** a-thread.codes](https://a-thread.codes)
 - [**Email:** aiden.threadgoode@gmail.com](mailto:aiden.threadgoode@gmail.com)
