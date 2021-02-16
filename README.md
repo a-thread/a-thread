@@ -1,6 +1,6 @@
-### 👋  Hi there!
-I'm a full-stack engineer with a background in graphic design and communications. Feel free to look around and [reach out](mailto:aiden.threadgoode@gmail.com) with any questions. 
-<br/>
+### 👋 Hi! I'm Aiden
+Full-Stack Engineer with a strong background in graphic design. Passionate about accessability, tea, and cookery. Feel free to look around and [reach out](mailto:aiden.threadgoode@gmail.com) with any questions. 
+
 > *Pronouns: he/him*
 
 #### 🔗  Let's Connect!
