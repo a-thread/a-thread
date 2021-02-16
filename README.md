@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm Aiden
-Full-Stack Engineer with a strong background in graphic design. Passionate about accessability, tea, and cookery. Feel free to look around and [reach out](mailto:aiden.threadgoode@gmail.com) with any questions. 
+Full-Stack Engineer with a strong background in graphic design. Passionate about accessibility, tea, and cookery! Feel free to look around and [reach out](mailto:aiden.threadgoode@gmail.com) with any questions or recipes. 
 
 > *Pronouns: he/him*
 
