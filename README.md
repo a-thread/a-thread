@@ -1,12 +1,11 @@
 ### 👋 Hi! I'm Aiden
-Full-Stack Engineer with a strong background in graphic design. Passionate about accessibility, tea, and cookery! Feel free to look around and [reach out](mailto:aiden.threadgoode@gmail.com) with any questions or recipes. 
+Full-Stack Engineer with a in graphic design, communications and peer support. Feel free to look around!
 
 > *Pronouns: he/him*
 
 #### 🔗  Let's Connect!
 - [**LinkedIn:** @a-thread](https://www.linkedin.com/in/a-thread)
 - [**Portfolio:** a-thread.codes](https://a-thread.codes)
-- [**Email:** aiden.threadgoode@gmail.com](mailto:aiden.threadgoode@gmail.com)
 
 <h4 align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
