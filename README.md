@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm Aiden
-Full-Stack Engineer with a in graphic design, communications and peer support. Feel free to look around!
+Full-Stack Engineer with a background in graphic design, communications and peer support. Feel free to look around!
 
 > *Pronouns: he/him*
 
