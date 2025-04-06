@@ -26,7 +26,7 @@ Passionate about building scalable, high-performant applications that drive inno
 
 > Pronouns: he/him
 > Currently coding in: TypeScript, C#, React, Angular
-> Seeking: Scalable, maintainable, and test-driven solutions 🚀
+> Skilled in: Scalable, maintainable, and test-driven solutions 🚀
 ```
 
 ---
