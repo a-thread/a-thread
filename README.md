@@ -31,6 +31,7 @@ Passionate about building scalable, high-performant applications that drive inno
 
 ---
 
-### 🔗 Lets Connect
+### 🔗 Links
+- [Portfolio](https://a-thread.codes)
+- [☕ Coffee](buymeacoffee.com/athread)
 - [LinkedIn](https://www.linkedin.com/in/a-thread)  
-- [Portfolio](https://a-thread.codes)  
